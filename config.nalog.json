@@ -1,0 +1,12 @@
+{
+  "deviceInfo": {
+    "appVersion": "1.0.1",
+    "metaDetails": {
+      "userAgent": "curl 7.88.1 (x86_64-pc-linux-gnu) libcurl/7.88.1"
+    },
+    "sourceDeviceId": "MySHM_Billing",
+    "sourceType": "WEB"
+  },
+  "inn": 1234567890,
+  "token": "то что выдал token.sh"
+}
