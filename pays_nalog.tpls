@@ -1,0 +1,4 @@
+{
+  "allow_past_income": false,
+  "max_past_days": 7
+}
